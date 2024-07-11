@@ -1,20 +1,12 @@
-### Hi there 👋 I am Amrei Binzer-Panchal
+### Hi there 👋 I am Amrei Binzer-Panchal,
 
-A bioinformatician and head of SLU's bioinformatics infrastructure, Slubi. 
+<img align="right" src="octocat-1720693885494.png" width="220">
 
-I support research groups at SLU by performing bioinformatic analyses and developing workflows on request. I have started my bioinformatics career with microarrays, but have since worked on sequence based data, performing analyses such as expression analyses, genotyping, single cell analyses, GWAS, metagenomics analyses, and more.
 
-<!--
-**amrei-bp/amrei-bp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+a bioinformatician and the head of SLU's bioinformatics infrastructure, Slubi. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I support researchers at The Swedish Agricultural University in matters of bioinformatics in a variety of ways, such as performing bioinformatic analyses, developing workflows on request, teaching, or simply answering questions that come up when running analyses. 
+
+With a background in biology and ecology, I have started my bioinformatics career with microarrays, but have since worked on sequence based data, performing analyses such as expression analyses, genotyping, single cell analyses, GWAS, metagenomics analyses, and more.
+
