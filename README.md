@@ -1,7 +1,7 @@
+<img align="right" src="octocat-1720693885494.png" width="280">
+
+
 ### Hi there 👋 I am Amrei Binzer-Panchal,
-
-<img align="right" src="octocat-1720693885494.png" width="220">
-
 
 a bioinformatician and the head of SLU's bioinformatics infrastructure, Slubi. 
 
