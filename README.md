@@ -12,5 +12,3 @@ With a background in biology and ecology, I have started my bioinformatics caree
 
 
 <sub><sup>Make you own Octocat with this fun generator: https://myoctocat.com/</sup></sub>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amrei-bp&theme=calm)
