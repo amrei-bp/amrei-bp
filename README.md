@@ -12,3 +12,10 @@ With a background in biology and ecology, I have started my bioinformatics caree
 
 
 <sub><sup>Make you own Octocat with this fun generator: https://myoctocat.com/</sup></sub>
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,git,docker,anaconda,md,vscode,latex,r,bash,cpp&theme=light" />
+  </a>
+</p>
