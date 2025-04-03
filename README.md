@@ -15,7 +15,9 @@ With a background in biology and ecology, I have started my bioinformatics caree
 
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,git,docker,anaconda,md,vscode,latex,r,bash,cpp&theme=light" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=linux,git,apptainer,anaconda,nextflow,md,vscode,latex,r,bash,cpp&theme=light&titles=true"
+    />
   </a>
 </p>
