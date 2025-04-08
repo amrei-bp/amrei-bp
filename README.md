@@ -13,11 +13,9 @@ With a background in biology and ecology, I have started my bioinformatics caree
 
 <sub><sup>Make you own Octocat with this fun generator: https://myoctocat.com/</sup></sub>
 
-
 <p align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=linux,git,apptainer,anaconda,nextflow,md,vscode,latex,r,bash,cpp&theme=light&titles=true"
-    />
-  </a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=linux,git,apptainer,anaconda,nextflow,md,vscode,latex,r,bash,cpp&theme=dark">
+  <img alt="'" src="https://go-skill-icons.vercel.app/api/icons?i=linux,git,apptainer,anaconda,nextflow,md,vscode,latex,r,bash,cpp&theme=light">
+</picture>
 </p>
