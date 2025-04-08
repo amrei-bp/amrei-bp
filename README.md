@@ -13,9 +13,12 @@ With a background in biology and ecology, I have started my bioinformatics caree
 
 <sub><sup>Make you own Octocat with this fun generator: https://myoctocat.com/</sup></sub>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://go-skill-icons.vercel.app/api/icons?i=linux,git,apptainer,anaconda,nextflow,md,vscode,latex,r,bash,cpp&theme=dark">
-  <img alt="'" src="https://go-skill-icons.vercel.app/api/icons?i=linux,git,apptainer,anaconda,nextflow,md,vscode,latex,r,bash,cpp&theme=light">
-</picture>
-</p>
+<div align="center">
+  
+  <!-- Dark Mode -->
+  [![My skills](https://go-skill-icons.vercel.app/api/icons?i=linux,git,apptainer,anaconda,nextflow,md,vscode,latex,r,bash,cpp&theme=dark#gh-dark-mode-only)](https://github.com/LelouchFR/skill-icons#gh-dark-mode-only)
+  <!-- Light Mode -->
+  [![My skills](https://go-skill-icons.vercel.app/api/icons?i=linux,git,apptainer,anaconda,nextflow,md,vscode,latex,r,bash,cpp&theme=light#gh-light-mode-only)](https://github.com/LelouchFR/skill-icons#gh-light-mode-only)
+
+</div>
+
